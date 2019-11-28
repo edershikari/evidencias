@@ -1,0 +1,1 @@
+1. *Una vez estemos conectados al servidor mediante la máquina virtual , lo primero que tendremos que hacer , es un **sudo apt-get update**, para tener actualizada la lista de paquetes para su posterior instalación.*
