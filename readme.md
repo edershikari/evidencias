@@ -4,3 +4,4 @@
 [TAREA 3](tarea3.md)
 [TAREA 4](tarea4.md)
 [TAREA 5](tarea5.md)
+[TAREA 6](tarea6.md)
